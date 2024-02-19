@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-      <button onClick={changeClick}>clicks {count}</button>
+      <button onClick={changeClick}>Malak Albattire {count}</button>
     </>
   );
 }
